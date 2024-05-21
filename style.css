@@ -18,9 +18,9 @@
 	--color-white: #ffffff;
 	--color-dark: #353535;
 	--color-dark-variant: #808080;
-
-	-o-transition: .4s ease;
+	transition: .4s ease;
 }
+
 
 h1,
 h2,
